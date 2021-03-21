@@ -24,8 +24,4 @@ public class Hello {
 	return (a+b);
    }
    
-   public static int prodotto(int a, int b){
-	return (a*b);
-   }
-
 }
