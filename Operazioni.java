@@ -20,7 +20,7 @@ public class Operazioni {
      *@param b secondo numero da sommare
      *@return restituisce la somma di due numeri in input
 	 */
-   public static int somma(int a, int b){
+   public static int sum(int a, int b){
 	return (a+b);
    }
    
