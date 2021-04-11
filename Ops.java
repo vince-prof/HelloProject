@@ -10,7 +10,7 @@ public class Operazioni {
 		metodo principale
 	*/
    public static void main(String[] args) {
-      System.out.println("Ciao, mondo!\n");
+      System.out.println("Ciao, tutti!\n");
 	  int result = sum(5,6);
 	  int result2 = prodotto(5,6);
 	  int result3 = prodotto(5,8);
